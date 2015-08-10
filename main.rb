@@ -1,8 +1,7 @@
-##################################### TODO #####################################
-### - Better search feature
-### - Better font selector
-### - Add the rest of the menus
-### - Put on GitHub
+############################ Possible improvements #############################
+### - Better search feature (window and feature)
+### - Better font selector (window and feature)
+### - Search and replace feature
 ################################################################################
 
 # Tk
